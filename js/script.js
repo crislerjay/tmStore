@@ -16,18 +16,18 @@ $(function() {
       // converted as object
       var ctr_data = $.csv.toObjects(result);
       // sort data
-      const sortedItems = [...ctr_data].sort((a, b) => a.price - b.price);
       // Initial display of all items
-      displayItems(sortedItems);
-      items = sortedItems
+      displayItems(ctr_data);
+      items = ctr_data
     }
   });
 
   // Function to display items
   function displayItems(filteredItems) {
+    const sortedItems = [...filteredItems].sort((a, b) => a.price - b.price);
     const itemList = $('#itemList');
     itemList.empty();
-    filteredItems.forEach(item => {
+    sortedItems.forEach(item => {
       itemList.append(`
         <li class="item">
           <div>
