@@ -24,10 +24,14 @@ $(function() {
 
   // Function to display items
   function displayItems(filteredItems) {
-    const sortedItems = [...filteredItems].sort((a, b) => a.price - b.price);
+    filteredItems.sort((a, b) => {
+      if (a.item < b.item) return -1;
+      if (a.item > b.item) return 1;
+      return 0;
+    });
     const itemList = $('#itemList');
     itemList.empty();
-    sortedItems.forEach(item => {
+    filteredItems.forEach(item => {
       itemList.append(`
         <li class="item">
           <div>
