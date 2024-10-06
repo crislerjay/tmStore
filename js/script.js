@@ -4,7 +4,7 @@ $(function() {
   // read CSV
   $.ajax({
     type: "GET",
-    url: "../data/db.csv",
+    url: "/tmStore/data/db.csv",
     dataType: "text",
     beforeSend: function(xhr){
         xhr.overrideMimeType("text/html;charset=Shift_JIS");
