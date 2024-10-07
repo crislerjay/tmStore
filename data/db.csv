@@ -1,25 +1,154 @@
 item,price,pricePerPiece,category
-modern,50,2.5,cigarrete
-san mig,50,,liquor
-coke,30,,softdrinks
-loperamide,15,,drugs
-colgate,12,,hygiene
-tomato sauce,17,,ing
-patis,13,,ing
-oyster sauce,15,,ing
-oishi,10,,chitchirya
-vcut,20,,chitchirya
-nova,20,,chitchirya
-piatot,20,,chitchirya
-1 milly,100000,1000,pulutan
-gillete,20,,hygiene
-sardines,23,,delata
-winston,140,7,cigarette
-neozep,9,,drugs
-conditioner,9,,hygiene
-1manok amang,libre,,pulutan
-2pato amang,libre,,pulutan
-empi 750ml,130,,liquor
-2x2,75,,liquor
-rh,780,65,liquor
-ariel,15,,sabon
+twinpack all,14,,cofee
+nescafe stick,3,,cofee
+cremtop,24,,cofee
+great taste 25g,25,,cofee
+sugar,22,,cofee
+bear brand adult,20,,cofee
+birch tree adul,18,,cofee
+bear brand swap,12,,cofee
+birch tree milk,10,,cofee
+milo,10,,cofee
+birch tree choco,10,,cofee
+energen,10,,cofee
+champion energen,12,,cofee
+nestea apple,24,,drink
+tang,22,,drink
+c2,15,,drink
+sting/cobra,20,,drink
+softdrinks small bote,12,,drink
+softdrinks cute,12,,drink
+sodtdrinks mismo,20,,drink
+mountain dew,20,,drink
+softdrinks kasalo,30,,drink
+mineral,15,,drink
+rh,780,65,drink
+2x2,75,,drink
+empi 750ml,145,,drink
+empi 1liter,185,,drink
+alfonso,300,,drink
+magic sarap,5,,condiments
+betchin,4,,condiments
+sinigang mix sm,9,,condiments
+sinigang mix big,18,,condiments
+paminta 3pcs,5,,condiments
+toyo 200ml,13,,condiments
+toyo 100ml,8,,condiments
+suka 200ml,12,,condiments
+suka 100ml,8,,condiments
+patis,13,,condiments
+coco mama sm,37,,condiments
+coco mama big,68,,condiments
+ketsup sachet,15,,condiments
+suka 385ml,23,,condiments
+suka 350ml,20,,condiments
+toyo 350ml,23,,condiments
+mama sitas bbq mrnt,40,,condiments
+mang thomas orig,40,,condiments
+mang thomas siga,45,,condiments
+ketchup bote,35,,condiments
+condense,48,,condiments
+evap,35,,condiments
+knorr cubes,7,,condiments
+margarine sachet,12,,condiments
+margarine tab,35,,condiments
+oyster sauce sm,7,,condiments
+oyster sauce big,15,,condiments
+mayo,38,,condiments
+cheese box,55,,condiments
+cheese sm,20,,condiments
+reno,20,,condiments
+bagoong,20,,condiments
+sardinas,25,,food
+bingo cornedbeed,25,,food
+unipack squid,45,,food
+cdo cornedbeef,34,,food
+freska tuna,34,,food
+century tuna,40,,food
+sardinas big,65,,food
+mckarel sm,34,,food
+mckarel big,75,,food
+pancit cantot,15,,food
+noodles,10,,food
+biscuit,8,,food
+buns,22,,food
+cup noodles,27,,food
+cheese wiz,15,,food
+coco crunch,8,,food
+eggnog/breadsticks,7,,food
+tuyo,20,,food
+kuros,7,,food
+itlog,10,,food
+chitchirya big,30,,food
+chitchirya 2nd floor,20,,food
+chitchirya 1st floor,10,,food
+bituka manok,15,,food
+chitcharon,35,,food
+pritong bangus ,7,,food
+sotanghon,15,,condiments
+misua,7,,condiments
+mungo,20,,condiments
+bawang whole,7,,condiments
+sibuyas 3,5,,condiments
+luya,5,,condiments
+mantika 1/2,40,,condiments
+mantika 1liter,75,,condiments
+mighty,140,7,sigar8
+winston,160,8,sigar8
+marlboro,200,10,sigar8
+camel,120,6,sigar8
+moder/2themoon,50,2.5,sigar8
+shampoo all,7,,toilet
+conditioner kremsilk,8,,toilet
+conditioner keratin,9,,toilet
+joy sm,8,,toilet
+joy md,15,,toilet
+joy lg,30,,toilet
+colgate,12,,toilet
+closeup,10,,toilet
+hapee,15,,toilet
+safeguard,24,,toilet
+silka,20,,toilet
+surf bar 1,8,,toilet
+wings powder,7,,toilet
+surf powder,8,,toilet
+ariel,15,,toilet
+zonrox sm,15,,toilet
+zonrox md,20,,toilet
+zonrox color sm,20,,toilet
+zonrox color md,30,,toilet
+downy,7,,toilet
+katol,25,5,toilet
+posporo,3,,toilet
+lighter,15,,toilet
+sponge,10,,toilet
+steel wool,10,,toilet
+happy diaper,10,,toilet
+napkin,5,,toilet
+crispy fry,22,,condiments
+breadcrumbs,15,,condiments
+tomato sauce,17,,condiments
+tomato paster,22,,condiments
+tidbits,20,,condiments
+harina,20,,condiments
+constarch,20,,condiments
+hamonado,65,,frozen
+rowell longanisa,50,,frozen
+mikeyos longanisa,40,,frozen
+chiken salami,40,,frozen
+bologna,40,,frozen
+hotdog,40,,frozen
+embotido,35,,frozen
+cornedbeef,50,,frozen
+tocino,60,,frozen
+ice,5,,frozen
+ice pop,5,,frozen
+delights/jakult,15,,drink
+pineapple in can,40,,drink
+chtchirya maliit 2,5,,food
+cloud8,10,,food
+hello,7,,food
+barnuts 3,5,2,food
+polvoron 3,5,2,food
+candy,1,,food
+sticko 3,5,,food
